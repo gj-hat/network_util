@@ -1,3 +1,13 @@
 
 /Public_Util/.env
 /.venv/
+/基于IP刷配置/output/
+/基于IP刷配置/cmdList.txt
+/基于IP刷配置/ipList.txt
+/基于表格内容刷配置/output/
+/基于表格内容刷配置/cmdList.txt
+/基于表格内容刷配置/data.xlsx
+/jinja模板引擎/logs/
+/jinja模板引擎/output/
+/jinja模板引擎/data/
+/Public_Util/logs/
