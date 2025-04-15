@@ -6,7 +6,9 @@
 *.iml
 out
 gen
-.env
+.enve
+cmdList.txt
+ipList.txt
 
 /.venv/
 /基于IP刷配置/output/
