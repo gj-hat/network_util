@@ -6,6 +6,7 @@
 *.iml
 out
 gen
+.env
 
 /.venv/
 /基于IP刷配置/output/
@@ -19,3 +20,4 @@ gen
 /基于IP刷配置/ipList.txt
 /基于表格内容刷配置/data.xlsx
 /基于表格内容刷配置/cmdList.txt
+!/基于IP刷配置/ipList.txt
